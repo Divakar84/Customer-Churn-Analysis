@@ -1,147 +1,35 @@
-# 📊 Customer Churn Analysis – Telecom Industry
+# Data Analyst Internship Projects
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-green)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+This repository contains a collection of 8 data analysis projects completed as part of my internship. Each project focuses on a different business domain and utilizes various tools including SQL, Python, Tableau, and Power BI.
 
----
+## 📂 Project Directory
 
-## 📌 Project Overview
-
-Customer churn is a major challenge in the telecom industry.  
-This project analyzes telecom customer data and builds a **Machine Learning model** to predict which customers are likely to churn.
-
-The goal is to help businesses reduce customer attrition through data-driven retention strategies.
-
----
-
-## 🎯 Objectives
-
-- Analyze churn patterns using SQL
-- Perform Exploratory Data Analysis (EDA)
-- Build a classification model using Logistic Regression
-- Segment customers based on churn probability
-- Provide actionable business recommendations
+| # | Project Title | Key Tools | Status |
+|---|---------------|-----------|--------|
+| 1 | [Retail Business Performance & Profitability Analysis](./Project-1-Retail-Business-Performance) | SQL, Python, Tableau | In Progress |
+| 2 | [Customer Lifetime Value Prediction Model](./Project-2-Customer-Lifetime-Value) | Python, Excel | In Progress |
+| 3 | [HR Analytics - Predict Employee Attrition](./Project-3-HR-Analytics-Employee-Attrition) | Python, Power BI | In Progress |
+| 4 | [YouTube Trending Video Analytics](./Project-4-YouTube-Trending-Video-Analytics) | Python, SQL, Tableau | In Progress |
+| 5 | [E-commerce Return Rate Reduction Analysis](./Project-5-E-commerce-Return-Rate-Reduction) | Python, Power BI, SQL | In Progress |
+| 6 | [Customer Churn Analysis for Telecom Industry](./Project-6-Customer-Churn-Analysis) | Python, SQL | **Completed** |
+| 7 | [Financial KPI Analysis for a Startup](./Project-7-Financial-KPI-Analysis) | Excel, Tableau, Python | In Progress |
+| 8 | [Movie Success Prediction and Sentiment Study](./Project-8-Movie-Success-Prediction) | Python, Excel | In Progress |
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🛠️ Skills & Tools
+- **Data Analysis:** Python (Pandas, NumPy, Seaborn, Matplotlib)
+- **Database Management:** SQL (Data Cleaning, Aggregation, Joins)
+- **Visualization:** Tableau, Power BI, Excel
+- **Machine Learning:** Scikit-learn, XGBoost, SHAP/ELI5 (Explainability)
 
-- **SQL (MySQL)** – Data analysis
-- **Python** – Data processing
-- **Pandas & NumPy** – Data manipulation
-- **Matplotlib & Seaborn** – Visualization
-- **Scikit-learn** – Machine Learning
-- **Jupyter Notebook**
-
----
-
-## 📂 Dataset Information
-
-- Dataset: Telco Customer Churn Dataset
-- Total Customers: 7043
-- Features: 21
-- Target Variable: `Churn (Yes/No)`
+## 📝 Project Guidelines
+Each project follows a structured approach:
+1. **Data Cleaning & Preprocessing**
+2. **Exploratory Data Analysis (EDA)**
+3. **Modeling/Analysis**
+4. **Visualization & Insights**
+5. **Final Report Generation**
 
 ---
-
-## 📊 Key Insights
-
-- 📌 Overall churn rate ≈ 26%
-- 📌 Month-to-month contracts show highest churn
-- 📌 Customers with low tenure churn more
-- 📌 Higher monthly charges increase churn probability
-- 📌 Electronic check users churn more frequently
-
----
-
-## 🤖 Machine Learning Model
-
-Model Used: **Logistic Regression**
-
-### Model Performance:
-- Accuracy: **82.19%** (Replace with your actual accuracy)
-- Evaluation Metrics:
-  - Precision
-  - Recall
-  - F1-Score
-  - Confusion Matrix
-
----
-
-## 👥 Customer Segmentation
-
-Customers were categorized into:
-
-- 🔴 **At Risk** (>70% probability)
-- 🟡 **Dormant** (40–70% probability)
-- 🟢 **Loyal** (<40% probability)
-
-This allows targeted retention strategies.
-
----
-
-## 💡 Business Recommendations
-
-### 🔴 At Risk Customers:
-- Offer discount incentives
-- Promote long-term contracts
-- Personalized retention support
-
-### 🟡 Dormant Customers:
-- Re-engagement campaigns
-- Bundle service offers
-
-### 🟢 Loyal Customers:
-- Loyalty rewards
-- Referral programs
-
----
-
-## 📁 Project Structure
-
-Customer-Churn-Analysis/
-
-
-├── churn_analysis.ipynb
-
-├── Telco-Customer-Churn.csv
-
-├── Project_Report.pdf
-
-├── Churn_Presentation.pptx
-
-└── README.md
-
-
----
-
-## 🚀 How to Run This Project
-
-1. Clone the repository:
-2. Install required libraries:
-3. Open Jupyter Notebook and run all cells.
-
----
-
-## 📌 Future Improvements
-
-- Implement Random Forest for comparison
-- Add SHAP model explainability
-- Handle class imbalance
-- Deploy as web dashboard
-
----
-
-## 👨‍💻 Author
-
-Divakar Pal
-BSc IT Student | Aspiring Data Analyst  
-
----
-
-⭐ If you found this project useful, feel free to star this repository!
-
-
+*Submitted as part of the Data Analyst Internship program.*
