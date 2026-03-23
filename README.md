@@ -7,7 +7,7 @@ This repository contains a collection of 8 data analysis projects completed as p
 | # | Project Title | Key Tools | Status |
 |---|---------------|-----------|--------|
 | 1 | [Retail Business Performance & Profitability Analysis](./Project-1-Retail-Business-Performance) | SQL, Python, Tableau | In Progress |
-| 2 | [Customer Lifetime Value Prediction Model](./Project-2-Customer-Lifetime-Value) | Python, Excel | In Progress |
+| 2 | [Customer Lifetime Value Prediction Model](./Project-2-Customer-Lifetime-Value) | Python, Excel | **Completed** |
 | 3 | [HR Analytics - Predict Employee Attrition](./Project-3-HR-Analytics-Employee-Attrition) | Python, Power BI | In Progress |
 | 4 | [YouTube Trending Video Analytics](./Project-4-YouTube-Trending-Video-Analytics) | Python, SQL, Tableau | In Progress |
 | 5 | [E-commerce Return Rate Reduction Analysis](./Project-5-E-commerce-Return-Rate-Reduction) | Python, Power BI, SQL | In Progress |
